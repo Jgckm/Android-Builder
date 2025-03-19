@@ -3,7 +3,7 @@
         "kernelSource": {
             "name": "Xiaomi10S（Proton）",
             "repo": "https://github.com/PixelExperience-Devices/kernel_xiaomi_thyme",
-            "branch": "lineage-20.0",
+            "branch": "thirteen",
             "device": "thyme",
             "defconfig": "thyme_defconfig"
         },
@@ -46,7 +46,7 @@
         "kernelSource": {
             "name": "Xiaomi10S（Google）",
             "repo": "https://github.com/PixelExperience-Devices/kernel_xiaomi_thyme",
-            "branch": "lineage-20.0",
+            "branch": "thirteen",
             "device": "thyme",
             "defconfig": "thyme_defconfig"
         },
@@ -147,7 +147,7 @@
         "kernelSource": {
             "name": "Xiaomi10S（Google-Docker）",
             "repo": "https://github.com/PixelExperience-Devices/kernel_xiaomi_thyme",
-            "branch": "lineage-20.0",
+            "branch": "thirteen",
             "device": "thyme",
             "defconfig": "thyme_defconfig"
         },
